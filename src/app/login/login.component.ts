@@ -10,7 +10,7 @@ import * as firebase from "firebase";
 export class LoginComponent {
 
   constructor(private afAuth: AngularFireAuth) {
-//login component
+//login 
   }
 
 
